@@ -1,1 +1,1 @@
- A url shortener in GOlang and SQLite. 
+ A url shortener in GO-fiber and redis. 
